@@ -19,3 +19,5 @@ This is a front-end project using react JS
    1. whole number
    2. integers
    3. natural numbers
+
+ ![ taj mahal ](https://www.google.com)
